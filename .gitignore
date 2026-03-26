@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8284f37d8e08bda44244e29c1b4ff105fde75d6427ae4ae065e5a2e3aa4f5dd5
-size 289
+## Large datasets / training artifacts
+/BJTU/
+/UDTL-master1/checkpoint/
+/UDTL-master1/Results/
+
+## Model weights / intermediate artifacts
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.pkl
+
+## Logs
+*.log
+
+## Python cache
+__pycache__/
+*.pyc
+
+## IDE / local config
+.idea/
+.vscode/
+
+## Large datasets / training artifacts
+/BJTU/
+/UDTL-master1/checkpoint/
+/UDTL-master1/Results/
+
+## Model weights / intermediate artifacts
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.pkl
+
+## Logs
+*.log
+
+## Python cache
+__pycache__/
+*.pyc
+
+## IDE / local config
+.idea/
+.vscode/
+
